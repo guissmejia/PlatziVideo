@@ -1,0 +1,11 @@
+@import "./Vars.scss";
+
+body {
+  margin: 0;
+  font-family: $theme-font;
+  background-image: radial-gradient(circle, #051937, #171228, #190a1a, #12040d, #000000);
+}
+
+* {
+  box-sizing: border-box;
+}

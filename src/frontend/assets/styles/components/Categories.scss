@@ -1,0 +1,12 @@
+.categories__title {
+  color: white;
+  font-size: 16px;
+  padding-left: 30px;
+  width: 100%;
+}
+
+@media only screen and (max-device-width: 768px) {
+  .categories__title {
+    font-size: 25px;
+  }
+}
